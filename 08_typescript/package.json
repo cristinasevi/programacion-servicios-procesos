@@ -1,0 +1,19 @@
+{
+  "name": "08_typescript",
+  "version": "1.0.0",
+  "description": "Este proyecto contiene ejemplos extraídos de las slides de la sesión 02.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start:dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sharp": "^0.31.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
